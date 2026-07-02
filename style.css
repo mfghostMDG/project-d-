@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f0f0f;
+  color: white;
+  text-align: center;
+}
+
+header {
+  padding: 80px 20px;
+  background: linear-gradient(45deg, #ff0000, #111);
+}
+
+h1 {
+  font-size: 50px;
+  letter-spacing: 5px;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 25px;
+  background: red;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+}
+
+section {
+  padding: 40px 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+footer {
+  padding: 20px;
+  background: #111;
+}
